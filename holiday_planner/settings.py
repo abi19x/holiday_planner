@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-abi19x-holidayplanner-wei2sucujwu.ws-eu118.gitpod.io',
+    '.herokuapp.com',
 ]
 
 
