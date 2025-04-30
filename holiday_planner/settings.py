@@ -32,6 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-abi19x-holidayplanner-wei2sucujwu.ws-eu118.gitpod.io',
     '.herokuapp.com',
+    '8000-abi19x-holidayplanner-q947rrofd93.ws-eu118.gitpod.io',
 ]
 
 
@@ -96,7 +97,7 @@ DATABASES = {
 CSRF_TRUSTED_ORIGINS = [
     "https://*.codeinstitute-ide.net/",
     "https://*.herokuapp.com",
-    "https://8000-abi19x-holidayplanner-wei2sucujwu.ws-eu118.gitpod.io",
+    "https://8000-abi19x-holidayplanner-q947rrofd93.ws-eu118.gitpod.io"
 ]
 
 
